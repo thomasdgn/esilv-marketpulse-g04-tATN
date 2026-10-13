@@ -175,3 +175,5 @@ grep is a research tool (grep thom data/content/thom.csv gives me all the lines 
 [package name] --version gives me the version on my computer of the [package name]
 
 python src/main.py executes the script main.py in the folder src
+
+head data/sample/prices.csv gives me the first rows of prices.csv
