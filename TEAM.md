@@ -10,10 +10,10 @@
 
 | Full name | GitHub username |
 |---|---|
-| Student 1 | @thomasdgn |
-| Student 2 | @noemie315000 |
-| Student 3 | @annelisegricourt-coder |
-| Student 4 | @abbeslina-create |
+| Thomas DEGARDIN | @thomasdgn |
+| Noémie SCHAEFFER | @noemie315000 |
+| Anne-lise GRICOURT | @annelisegricourt-coder |
+| Lina ABBES | @abbeslina-create |
 
 ## Repository
 
